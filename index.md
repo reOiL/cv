@@ -5,6 +5,10 @@
 
 [mmo_server](https://github.com/reOiL/mmo_server)
 
+[Ira](https://gitlab.com/yoga3001/Ira)
+
+[nextremeall](https://gitlab.com/yoga3001/nextremeall)
+
 ## Video games
 [UnitWordPro](https://github.com/reOiL/UnitWordPro)
 
@@ -13,6 +17,10 @@
 [BigWheelSimulator](https://github.com/reOiL/BigWheelSimulator)
 
 [BigWheelSimulatorServer](https://github.com/reOiL/BigWheelSimulatorServer)
+
+[projectavr](https://gitlab.com/yoga3001/projectavr)
+
+[unitypuzzle](https://gitlab.com/yoga3001/unitypuzzle)
 
 ## School 21 Projects
 [BSQ](https://github.com/reOiL/BSQ)
@@ -50,6 +58,10 @@
 
 [friendbot](https://github.com/reOiL/friendbot)
 
+[kpit-ctf](https://gitlab.com/yoga3001/kpit-ctf)
+
+[dragonica-discord-bot](https://gitlab.com/yoga3001/dragonica-discord-bot)
+
 ## Frontend
 [socialjoy_front](https://github.com/reOiL/socialjoy_front)
 
@@ -62,10 +74,17 @@
 
 [web-watts](https://github.com/reOiL/web-watts)
 
+[dnd-craftandhack](https://gitlab.com/yoga3001/dnd-craftandhack)
+
 ## Let's make life better
 [gitflow](https://github.com/reOiL/gitflow)
 
 ## Blockchain
 [mshp-blockchain](https://github.com/reOiL/mshp-blockchain)
 
+## Other
+[nike_resale_bot](https://gitlab.com/yoga3001/nike_resale_bot)
 
+[GraphiteResearch](https://gitlab.com/GraphiteResearch/)
+
+[androidmontool](https://gitlab.com/yoga3001/androidmontool)
