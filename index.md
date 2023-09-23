@@ -3,6 +3,7 @@
 ## Contents
 
 1. [Chapter 2016: The story has begun...](#chapter-2016-the-story-has-begun)
+2. [Chapter 2017: Love and hate for C++](#chapter-2017-love-and-hate-for-c)
 
 ## Chapter 2016: The story has begun...
 
@@ -19,22 +20,41 @@
 > A little later, fate brought me together with a man who helped me figure out how to set up and run the server.
 >
 > But we still had a lot of problems that we were able to solve together.
+>
+---
+>
+> In the same year I started trying to learn the great and terrible C++.
+>
+> Because I knew that dragonica was written on it and I was interested in figuring out how it works inside.
 
 Learned Skills:
 - MSSQL Basic
 - Team work Basic
+- C++ Fundamental
 
 Projects:
 - Local Dragonica Server
 
-2. Chapter 2017: Love and hate for C++
+## Chapter 2017: Love and hate for C++
+
+> I was supposed to go to college in 2017.
+>
+> I understood that college wouldn't give me the advanced knowledge I wanted in the next couple of years.
+> 
+> That's why I decided to enroll in the miracle "Moscow School of Programmers"
+>
+> I remember how I failed the entrance math test. The hosts must have been shocked.
+>
+> However, due to the fact that I tried to teach C++ on my own, I will be able to enroll immediately in the 2nd year in the Yandex department.
+>
 
 Learned Skills:
-- 
-- 
+- С++/STL Basic
+- Algorithms - Basic
+- Computer Network - Basic
 
 Projects:
-- 
+[Some of my study C++ Projects :)]()
 
 ## CPP Study
 [Ira Packet](https://github.com/reOiL/Packet)
