@@ -47,6 +47,10 @@ Projects:
 >
 > However, due to the fact that I tried to teach C++ on my own, I will be able to enroll immediately in the 2nd year in the Yandex department.
 >
+---
+>
+> Thanks to this school, I was able to form a base in C++, understood what algorithms are for and what they are, and also got into networking
+>
 
 Learned Skills:
 - С++/STL Basic
@@ -54,7 +58,37 @@ Learned Skills:
 - Computer Network - Basic
 
 Projects:
-[Some of my study C++ Projects :)]()
+- [Some of my study C++ Projects :)](https://github.com/reOiL/cv/tree/master/projects/2017)
+
+## Chapter 2018: *Cyber*~~punk~~*security*
+
+## Chapter 2018: import django
+
+## Chapter 2020: Divide and conquer
+
+Projects:
+- [mshp-blockchain](https://github.com/reOiL/mshp-blockchain)
+
+## Chapter 2021: The Ultimate Question of Life, the Universe, and Everything
+
+Learned Skills:
+- C
+- Bash
+- Linux
+
+Projects:
+- [BSQ](https://github.com/reOiL/BSQ)
+- [Get_Next_Line](https://github.com/reOiL/Get_Next_Line)
+- [fillit](https://github.com/reOiL/fillit)
+- [ft_printf](https://github.com/reOiL/ft_printf)
+- [libft](https://github.com/reOiL/libft)
+- [init](https://github.com/reOiL/init)
+- [ft_ls_test](https://github.com/reOiL/ft_ls_test)
+- [ft_ls](https://github.com/reOiL/ft_ls)
+- [push_swap-1](https://github.com/reOiL/push_swap-1)
+- [push_swap](https://github.com/reOiL/push_swap)
+- [minishell](https://github.com/reOiL/minishell)
+- [piscine-reloaded](https://github.com/reOiL/piscine-reloaded)
 
 ## CPP Study
 [Ira Packet](https://github.com/reOiL/Packet)
@@ -77,31 +111,6 @@ Projects:
 [projectavr](https://gitlab.com/yoga3001/projectavr)
 
 [unitypuzzle](https://gitlab.com/yoga3001/unitypuzzle)
-
-## School 21 Projects
-[BSQ](https://github.com/reOiL/BSQ)
-
-[Get_Next_Line](https://github.com/reOiL/Get_Next_Line)
-
-[fillit](https://github.com/reOiL/fillit)
-
-[ft_printf](https://github.com/reOiL/ft_printf)
-
-[libft](https://github.com/reOiL/libft)
-
-[init](https://github.com/reOiL/init)
-
-[ft_ls_test](https://github.com/reOiL/ft_ls_test)
-
-[ft_ls](https://github.com/reOiL/ft_ls)
-
-[push_swap-1](https://github.com/reOiL/push_swap-1)
-
-[push_swap](https://github.com/reOiL/push_swap)
-
-[minishell](https://github.com/reOiL/minishell)
-
-[piscine-reloaded](https://github.com/reOiL/piscine-reloaded)
 
 ## Django
 [django-discord](https://github.com/reOiL/django-discord)
@@ -135,8 +144,6 @@ Projects:
 ## Let's make life better
 [gitflow](https://github.com/reOiL/gitflow)
 
-## Blockchain
-[mshp-blockchain](https://github.com/reOiL/mshp-blockchain)
 
 ## Other
 [nike_resale_bot](https://gitlab.com/yoga3001/nike_resale_bot)
