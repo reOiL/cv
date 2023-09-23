@@ -1,4 +1,40 @@
-# This is index page
+# Chronicles of Grigory Leikin: The Programmer's Journey
+
+## Contents
+
+1. [Chapter 2016: The story has begun...](#chapter-2016-the-story-has-begun)
+
+## Chapter 2016: The story has begun...
+
+> My story of becoming a programmer began with my love for the online game Dragonica.
+> 
+> I played this game with my friends when I was in elementary school.
+> 
+> By the will of fate, I had to leave the game, but I remembered about it in 2014 and I wanted to play it again.
+> 
+> But alas, the official servers were closed and there was one pirate server.
+> 
+> That day I wanted to try to make my own server.
+> 
+> A little later, fate brought me together with a man who helped me figure out how to set up and run the server.
+>
+> But we still had a lot of problems that we were able to solve together.
+
+Learned Skills:
+- MSSQL Basic
+- Team work Basic
+
+Projects:
+- Local Dragonica Server
+
+2. Chapter 2017: Love and hate for C++
+
+Learned Skills:
+- 
+- 
+
+Projects:
+- 
 
 ## CPP Study
 [Ira Packet](https://github.com/reOiL/Packet)
